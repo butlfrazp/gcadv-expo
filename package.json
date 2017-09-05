@@ -1,0 +1,28 @@
+{
+  "name": "gcadv-expo",
+  "version": "0.0.0",
+  "description": "Hello Expo!",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "firebase": "^4.1.3",
+    "lodash": "^4.17.4",
+    "expo": "^19.0.0",
+    "react": "16.0.0-alpha.12",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-19.0.0.tar.gz",
+    "react-native-app-link": "^0.4.0",
+    "react-native-communications": "^2.2.1",
+    "react-native-linear-gradient": "^2.1.0",
+    "react-native-router-flux": "^3.40.1",
+    "react-native-shimmer-placeholder": "^1.0.12",
+    "react-redux": "^5.0.5",
+    "redux": "^3.7.0",
+    "redux-thunk": "^2.2.0"
+  },
+  "devDependencies": {
+    "firebase": "^4.2.0",
+    "jest": "^20.0.4"
+  }
+}

@@ -1,0 +1,31 @@
+
+  {
+    "training": {
+      "title": "Training",
+      "description": "GCADV offers a variety of trainings to domestic violence programs and other professionals to strengthen our state’s response to domestic violence and ensure that victims receive the best advocacy services possible. To access our archived webinars, and to view and register for upcoming in-person training, visit our training website at the link above",
+      "link": {
+        "title": "Website",
+        "link": "https://training.gcadv.org/"
+      }
+    },
+    "advocacy": {
+      "title": "Advocacy",
+      "description": "GCADV advocates for improvements in those systems which respond to domestic violence victims and offenders.  GCADV does this by engaging in legislative and public policy advocacy within the Georgia General Assembly, with domestic violence services funders, and with other policy-making bodies to ensure that the interests and rights of domestic violence survivors are protected and upheld."
+    },
+    "hotline": {
+      "title": "Hotline",
+      "description": "The Georgia domestic violence hotline is an extensive telephone routing system to Criminal Justice Coordinating Council (CJCC) certified shelters. Calls to the hotline are automatically connected to the caller’s nearest certified shelter based on the caller’s telephone number exchange. Calls may be made 24 hours a day from anywhere in the state as well as from outside of Georgia from any phone line. Programs accepting calls have access to language interpreter services.",
+      "link": {
+        "title": "Phone",
+        "link": "6786203481"
+      }
+    },
+    "fatality-review": {
+      "title": "Fatality Review",
+      "description": "GCADV and the Georgia Commission on Family Violence coordinate the Fatality Review Project (Project) and work with local fatality review teams to conduct in-depth reviews. The Report analyzes domestic violence-related homicides and near-homicides in the state and provides recommendations for systemic change with the objective of lowering homicide rates. To view the report and for more information about it, please click thie link above.",
+      "link": {
+        "title": "Website",
+        "link": "http://georgiafatalityreview.com/reports/report/2016-report/"
+      }
+    },
+  }
